@@ -1,2 +1,4 @@
-"files/.idea" 
-"classes/__pychach__" 
+files/.idea/
+classes/__pychach__/
+/venv/
+.idea
